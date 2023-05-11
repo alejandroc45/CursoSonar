@@ -9,6 +9,8 @@
   <url>http://maven.apache.org</url>
   <properties>
     <jdk-version>1.7</jdk-version>
+    <sonar.organization>alejandroc45-1</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
